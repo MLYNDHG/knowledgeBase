@@ -1,0 +1,13 @@
+ES6
+TypeScript
+JVM
+JAVA设计模式
+JAVA版本语言特性
+Spring源码
+Spring全家桶
+Redis数据库
+Linux
+MQ消息队列等消息中间件
+缓存
+Nginx、tomcat、jetty服务器配置使用
+Docker容器使用
